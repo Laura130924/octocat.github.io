@@ -23,6 +23,7 @@ Criação de site da aula do professor Calu
 
      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCIjae7mymOMWZUrVGxOxnqugPiUv9X87OsQ&s" >
 
+Olá,meu Laura Genuino, atualmente estou cursando no Senai no curso Desenvolvimento de Sistemas, sou apaixonada por tecnologia e adoro enfrentar desafios de programação, encontrar soluções criativas e contribuir para a criação de sistemas eficientes e escaláveis.
 
 </html>
 
